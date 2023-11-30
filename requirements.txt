@@ -1,4 +1,4 @@
-PIL
+pillow
 requests
 io
 streamlit

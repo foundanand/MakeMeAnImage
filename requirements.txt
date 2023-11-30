@@ -1,0 +1,5 @@
+PIL
+requests
+io
+streamlit
+openai
